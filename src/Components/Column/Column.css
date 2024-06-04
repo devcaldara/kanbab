@@ -1,0 +1,19 @@
+.column{
+    background-color: rgb(153, 213, 233);
+    padding: 10px;
+    border-radius: 10px;
+    width: 236px;
+    min-height: 150px;
+    justify-content: center;
+    margin: 10px;
+    opacity: 0.7;
+}
+
+.botaoAdd{
+    width: 100px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    height: 20px;
+}

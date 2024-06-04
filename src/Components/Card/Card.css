@@ -1,0 +1,26 @@
+.card-container{ 
+    padding: 8px;
+    background-color: rgb(188, 248, 248); 
+    border-radius: 4px;
+    margin: 15px 10px 15px 10px;
+
+ }
+
+ .card-content{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+ }
+
+ .card-button{
+    margin-left: 5px;
+    border-radius: 5px;
+    height: 20px;
+    background-color: #f9f8f8;
+    opacity: 0.75;
+    margin-top: 1.5px;
+    border: none;
+ }
+ 
